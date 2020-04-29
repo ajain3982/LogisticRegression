@@ -1,5 +1,5 @@
 # LogisticRegression
-This repository creates a logreg model on your custom model from scratch.
+This repository creates a logreg model on your custom data from scratch.
 
 ## Table Of Contents
 1. [Motivation](#motivation)
