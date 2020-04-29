@@ -17,12 +17,16 @@ This project is used to train a logistic regression model from scratch. I always
 4. scikit-learn
 
 ## Run
+'''
 python run.py --train iris.csv --lr 0.01 --epochs 300 
+'''
 
 You can use your dataset as well. Make sure the target column is names as **labels** and there are no ID columns. I am using the first column as index column, so adjust your file accordingly. A sample data is also provided.
 
 To checkout other configurable options, run - 
+'''
 python run.py --help
+'''
 
 ## Output
 This program outputs classification report and predictions over your test dataset.
